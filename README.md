@@ -19,4 +19,4 @@ gestor_tareas/
 │ └── vista
 │ └── gui_gestor_tareas.py
 └── README.md
-```
+```git flow feature start agregar_tareagit flow feature start agregar_tarea
