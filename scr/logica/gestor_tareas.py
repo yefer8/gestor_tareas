@@ -7,7 +7,7 @@ class Tarea:
 
 
 class GestorTareas:
-     def __init__(self):q
+     def __init__(self):
 
          self.tareas = []
 
