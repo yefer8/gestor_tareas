@@ -7,7 +7,7 @@ class Tarea:
 
 
 class GestorTareas:
-    def __init__(self):
+    def __init__(self):q
         self.tareas = []
 
     def agregar_tarea(self, titulo, descripcion):
